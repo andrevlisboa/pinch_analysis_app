@@ -1,0 +1,9 @@
+[submodule "src/backend/cf_module"]
+	path = src/backend/cf_module
+	url = https://github.com/andrevlisboa/p-core-functionalities-fullstack.git
+[submodule "cf_module"]
+	path = cf_module
+	url = https://github.com/andrevlisboa/p-core-functionalities-fullstack.git
+[submodule "pinch_app/cf_module"]
+	path = pinch_app/cf_module
+	url = https://github.com/andrevlisboa/p-core-functionalities-fullstack.git
